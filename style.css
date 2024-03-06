@@ -1,0 +1,81 @@
+html {
+    background-image: url(imagem/vector-NOV-2020-110_generated.jpg);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.login {
+    text-align: center;
+    text-decoration-line: underline;  
+}
+.bandeira{
+    background-image: url(imagem/Haustiger.png);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-left: 740px;
+}
+.box {
+    position: absolute;
+    box-sizing: border-box;
+    background-color: rgb(209, 208, 208);
+    width: 300px;
+    height: 250px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    margin-left: 740px;
+    margin-top: 60px;
+    z-index: 1;
+}
+.IDtext{
+    margin-left: 10px;
+}
+.senha{
+    margin-top: 7px;
+    margin-left: 10px;
+}
+.id { 
+    width: 275px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.password { 
+    width: 275px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.button { 
+    background-color: #8bf77d;
+    width: 281px;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+.box2 {
+    position: absolute;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    margin-left: 740px;
+    margin-top: 60px;
+}
+.buttonID {
+    background-color: #f77d7d;
+    width: 281px;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-top: 265px;
+}
+footer{
+    margin-top: 500px;
+    margin-right: 10px;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    
+}
